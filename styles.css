@@ -71,7 +71,7 @@ html[data-theme="light"] body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 40px 0;
+  margin: 20px 0;
 }
 
 /* Stylish brand */
@@ -187,4 +187,5 @@ input:focus, textarea:focus {
 @keyframes fadeIn { from{opacity:0;} to{opacity:1;} }
 @keyframes slideDown { from{opacity:0;transform:translateY(-30px);} to{opacity:1;transform:translateY(0);} }
 .animate-up { animation: fadeIn .8s ease, slideDown .9s ease; }
+
 
