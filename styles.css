@@ -81,6 +81,7 @@ html[data-theme="light"] body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 24px;
+  margin-left: 20px;
 }
 
 /* Card with glassmorphism */
@@ -187,6 +188,7 @@ input:focus, textarea:focus {
 @keyframes fadeIn { from{opacity:0;} to{opacity:1;} }
 @keyframes slideDown { from{opacity:0;transform:translateY(-30px);} to{opacity:1;transform:translateY(0);} }
 .animate-up { animation: fadeIn .8s ease, slideDown .9s ease; }
+
 
 
 
