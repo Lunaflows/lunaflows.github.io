@@ -1,6 +1,6 @@
 {
-  "name": "Pookie Period Tracker",
-  "short_name": "Pookie Tracker",
+  "name": "Lunaflows Period Tracker",
+  "short_name": "Period Tracker",
   "description": "🎀 Track your period, fertile window, and ovulation privately & easily.",
   "start_url": "./index.html",
   "display": "standalone",
@@ -19,4 +19,5 @@
       "type": "image/png"
     }
   ]
+
 }
